@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anj-ana-396&label=Profile%20views&color=0e75b6&style=flat" alt="anj-ana-396" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anj-ana-396" alt="anj-ana-396" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, Typescript**
 
 - 🤝 I’m looking for help with **fullstack project**
